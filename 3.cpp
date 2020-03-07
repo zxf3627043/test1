@@ -1,3 +1,6 @@
 #include<istream>
 
-int main
+int main()
+{
+
+}
